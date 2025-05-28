@@ -20,8 +20,8 @@ To write a Python program to add two complex numbers, where inputs are taken usi
 ## PROGRAM
 
 ```python
-# Reg.No-212223020020
-# Name-Pradaksha V
+# Reg.No-2122220060
+# Name-Yazhini G
 # Write your code here
 a=eval(input())
 b=eval(input())
