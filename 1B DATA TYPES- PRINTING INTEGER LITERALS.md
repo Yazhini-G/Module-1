@@ -1,31 +1,30 @@
-# Experiment No: 1B- Data Types – Printing Integer Literals
+# Experiment No: 1B-Write a python program to read one string and integer and print the values.
 
 ## AIM  
-To write a Python program to print the following integer literals: 0b10100,50,0o320,0x12b.
+To write a Python program to read one string and one integer from the user and print the entered values.
 
 ## ALGORITHM  
+
 1.Start the program.
-Open the Python environment and create a new script or file.
-2.Declare integer literals
-Define integer literals using different number systems:
-3.Binary: 0b10100
-Decimal: 50
-Octal: 0o320
-Hexadecimal: 0x12b
-Print the values
-Use the print() function to display each literal's decimal (base-10) value.
-4.End the program.
-Ensure all outputs are printed and the program runs without errors.
+
+2.Prompt the user to input a string.
+
+3.Prompt the user to input an integer (using type conversion).
+
+4.Print both the entered string and integer.
+
+5.End the program.
 
 ## PROGRAM
-a=0b10100
-b=50
-c=0o320
-d=0x12b
-print(a,b,c,d)
-
+```python
+# Reg.No-212222220060
+# Name-Yazhini G
+a=int(input())
+b=str(input())
+print(a,b)
+```
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/6490ec26-3d0c-4979-b24a-eeb8a9de3c84)
+![image](https://github.com/user-attachments/assets/01a2173e-ff26-4a6b-8042-16376f3cc1ef)
 
 ## RESULT
-Thus,the Python program to print the following integer literals: 0b10100,50,0o320,0x12b was implemented and successfully executed.
+Thus, the Python program to read one string and one integer and print the values was successfully executed.
