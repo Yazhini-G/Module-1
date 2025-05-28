@@ -1,4 +1,4 @@
-# Experiment No: 1c-Varibles and Expressions, Operators - Subtracting Two Complex Numbers
+# Experiment No: 1c-Varibles and Expressions, Operators - Adding Two Complex Numbers
 
 ## AIM
 To write a Python program to subtract two complex numbers, where the complex numbers c1 = 8 + 4j and c2 = 5 + 2j are given.
